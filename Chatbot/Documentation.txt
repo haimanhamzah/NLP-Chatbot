@@ -1,0 +1,17 @@
+03/12/2023
+First Checkpoint of HAI Chatbot reached
+
+Maintanence
+- Fix the lemmatisation to get part of speech for named entity recognition
+- and ensure the lemmatisation is used for differently for different datasets
+
+next 
+- expand corpus 
+- context tracking
+- sentiment analysis
+- transaction
+- guard rail
+- discoverability 
+
+- sqlite genre
+movieswatch -> [("","Horror"),("","Anime"),("","Action")]

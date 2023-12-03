@@ -1,0 +1,12 @@
+- User: I would like to buy tickets for a movie?
+- Bot: Sure what movie would you like to see? I see that your last few movies were anime movies. Here are my recommedations:
+- User: I don't want to watch those movies what other movies do you have to recommend?
+- Bot: What genre would you like to watch?
+- User: Horror please.
+- Bot: ..., ... , ... 
+- User: I would like to watch ... please.
+- Bot: What time, and how many tickets?
+- User: Tonight at 7:00, 1 for me please.
+- Bot: Great, I will book a ticket for 7:00 for 1 for the movie ..., Is that correct?
+- User: Yes
+- Bot: Great see you then!
