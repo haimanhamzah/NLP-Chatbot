@@ -1,3 +1,8 @@
+"""    THIS FILE IS NOT USED IN THE LATEST IMPLEMENTATION OF THE CHATBOT, AS IT WAS USED AS A PRIOR TRIAL AND ERROR FILE    """
+
+
+
+
 # countries = [
 #     "United States",
 #     "Canada",
