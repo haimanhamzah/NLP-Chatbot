@@ -1,49 +1,29 @@
-#Starting Dataset 
+import pandas as pd
+from sklearn.feature_extraction.text import TfidfVectorizer
 
-countries = [
-     {         
-               "country": "United Kingdom",
-               "city": "London",
-               "price": 2500,
-               "airlines": ["British Airlines", "Malaysia Airlines"],
-               "duration": "13 Hours",
-               "budget": 2000   
-     },
-     {         
-               "country": "Japan",
-               "city": "Tokyo",
-               "price": 1500,
-               "airlines": ["Japan Airlines", "Malaysia Airlines"],
-               "duration": "7 Hours",
-               "budget": 2500   
-     },
-     {         
-               "country": "Korea",
-               "city": "Seoul",
-               "price": 1000,
-               "airlines": ["Korea Airlines", "Malaysia Airlines"],
-               "duration": "6 Hours",
-               "budget": 1600  
-     }   
-]
+all_df = pd.read_csv("transaction_response.csv")
+all_df_vect = TfidfVectorizer(analyzer='word', use_idf=True, smooth_idf=True, sublinear_tf=True)
+all_df_tfidf = all_df_vect.fit_transform(all_df['Input']).toarray()
+df = pd.DataFrame(all_df_tfidf, columns=all_df_vect.get_feature_names_out())
 
-def content_determination(travel):
-               return travel
+all_df1 = pd.read_csv("qa.csv")
+all_df_vect1 = TfidfVectorizer(analyzer='word', use_idf=True, smooth_idf=True, sublinear_tf=True)
+all_df_tfidf1 = all_df_vect1.fit_transform(all_df1['Question']).toarray()
+df1 = pd.DataFrame(all_df_tfidf1, columns=all_df_vect1.get_feature_names_out())
 
-def document_structuring(travel):
-               return {
-                    "place": [travel['country'], travel['city']],
-                    "money": [travel['price'], travel['budget']],
-                    "method_to_travel": [travel['airlines']],
-                    "how_long": [travel['duration']]         
-               }
+all_df2 = pd.read_csv("small_talk.csv")
+all_df_vect2 = TfidfVectorizer(analyzer='word', use_idf=True, smooth_idf=True, sublinear_tf=True)
+all_df_tfidf2 = all_df_vect2.fit_transform(all_df2['Smallq']).toarray()
+df2 = pd.DataFrame(all_df_tfidf2, columns=all_df_vect2.get_feature_names_out())
 
-def aggregation(structure_travel):
-               aggregated_data = {}
-               
-               aggregated_data["place"] = f"{structure_travel['place'][0]} is the country of {structure_travel['place'][1]}"
-               aggregated_data["money"] = f"The price to travel to {structure_travel['place'][0]} from Malaysia is
-                                             {structure_travel['money'][0]}. The estimated budget for the trip would be
-                                             {structure_travel['money'][1]}"
-               aggregated_data["method_to_travel"] = f"The airlines available are {structure_travel['method_to_travel'][0]}"
-               aggregated_data["how_long"] = f"The estimated duration of the flight is {structure_travel['how_long'][0]}"
+all_df3 = pd.read_csv("name.csv")
+all_df_vect3 = TfidfVectorizer(analyzer='word', use_idf=True, smooth_idf=True, sublinear_tf=True)
+all_df_tfidf3 = all_df_vect3.fit_transform(all_df3['Question']).toarray()
+df3 = pd.DataFrame(all_df_tfidf3, columns=all_df_vect3.get_feature_names_out())
+
+all_df4 = pd.read_csv("sentiment_analysis.csv")
+positive = all_df4['positive'].tolist()
+negative = all_df4['negative'].tolist()
+
+all_df5 = pd.read_csv("random_joke.csv")
+jokes = all_df5['jokes'].tolist()

@@ -1,11 +1,118 @@
 ﻿Input,Output
-what movies are available?,"The movies currently available are ""The Marvels"" ""The Killer"" ""Five Nights at Freddy's"" ""Killers of the flower moon"" ""A Haunting in Venice"" and ""Harry Potter Trilogy"""
-what movies do you have?,"The movies currently available are ""The Marvels"" ""The Killer"" ""Five Nights at Freddy's"" ""Killers of the flower moon"" ""A Haunting in Venice"" and ""Harry Potter Trilogy"""
-list all the movies available?,"The movies currently available are ""The Marvels"" ""The Killer"" ""Five Nights at Freddy's"" ""Killers of the flower moon"" ""A Haunting in Venice"" and ""Harry Potter Trilogy"""
-what movies can I watch?,"The movies currently available are ""The Marvels"" ""The Killer"" ""Five Nights at Freddy's"" ""Killers of the flower moon"" ""A Haunting in Venice"" and ""Harry Potter Trilogy"""
-what are the showtimes?,The showtimes for all the movies are at 10am / 12pm / 3pm/ 6pm / 8pm and 10pm everyday
-I'd like to book tickets to a movie,Great! Let's proceed with the booking. Please provide the movie name and showtime.
+what movies are available?,"The movies currently available are ""The Doorbells"" ""Four Days in Domino's"" ""Lovers of the sunset"" ""a haunted magazine"" and ""Haiman Pot and Vase Trilogy"""
+what movies do you have?,"The movies currently available are ""The Doorbells""  ""Four Days in Domino's"" ""Lovers of the sunset"" ""a haunted magazine"" and ""Haiman Pot and Vase Trilogy"""
+list all the movies available?,"The movies currently available are ""The Doorbells""  ""Four Days in Domino's"" ""Lovers of the sunset"" ""a haunted magazine"" and ""Haiman Pot and Vase Trilogy"""
+what movies can I watch?,"The movies currently available are ""The Doorbells""  ""Four Days in Domino's"" ""Lovers of the sunset"" ""a haunted magazine"" and ""Haiman Pot and Vase Trilogy"""
+what are the showtimes?,The showtimes for all the movies are at 10am / 12pm / 3pm/ 6pm / 8pm and 10pm today
+I'd wanna watch movie,"Great! The movies currently available are ""The Doorbells""  ""Four Days in Domino's"" ""Lovers of the sunset"" ""a haunted magazine"" and ""Haiman Pot and Vase Trilogy"""
 bye,Goodbye!
 goodbye,Goodbye!
-what showtimes are available?,"The movies currently available are ""The Marvels"" ""The Killer"" ""Five Nights at Freddy's"" ""Killers of the flower moon"" ""A Haunting in Venice"" and ""Harry Potter Trilogy"""
-what movies are there?,"The movies currently available are ""The Marvels"" ""The Killer"" ""Five Nights at Freddy's"" ""Killers of the flower moon"" ""A Haunting in Venice"" and ""Harry Potter Trilogy"""
+what showtimes are available?,The showtimes for all the movies are at 10am / 12pm / 3pm/ 6pm / 8pm and 10pm today
+what movies are there?,"The movies currently available are ""The Doorbells""  ""Four Days in Domino's"" ""Lovers of the sunset"" ""a haunted magazine"" and ""Haiman Pot and Vase Trilogy"""
+I'd like to book tickets to a movie,"Sure! The movies currently available are ""The Doorbells""  ""Four Days in Domino's"" ""Lovers of the sunset"" ""a haunted magazine"" and ""Haiman Pot and Vase Trilogy"""
+I'd like to book The Doorbells please,"Sure! What time would you like to watch ""The Doorbells"""
+I'd like to book Four Days in Domino's please,"Sure! What time would you like to watch ""Four Days in Domino's"""
+I'd like to book Lovers of the sunset please,"Sure! What time would you like to watch ""Lovers of the sunset"""
+I'd like to book a haunted magazine please,"Sure! What time would you like to watch  ""a haunted magazine"""
+I'd like to watch Haiman Pot and Vase trilogy please,"Sure! What time would you like to watch ""Haiman Pot and Vase Trilogy"""
+what time are the movies?,The showtimes for all the movies are at 10am / 12pm / 3pm/ 6pm / 8pm and 10pm today
+change the time to 10am,Sure! Booking for 10 am today
+change the time to 12pm,Sure! Booking for 12 pm today
+change the time to 3pm,Sure! Booking for 3 pm today
+change the time to 6pm,Sure! Booking for 6 pm today
+change the time to 8pm ,Sure! Booking for 8 pm today
+change the time to 10pm,Sure! Booking for 10 pm today
+what time is available?,The showtimes for all the movies are at 10am / 12pm / 3pm/ 6pm / 8pm and 10pm today
+I'd like to book The Doorbells at 10am,Sure! Booking for The Doorbells at 10 am today
+I'd like to book Four Days in Dominos at 10am,Sure! Booking for Four Days in Domino's at 10 am today
+I'd like to book Lovers of the sunset at 10am,Sure! Booking for Lovers of the sunset at 10 am today
+I'd like to book a haunted magazine at 10am,Sure! Booking for a haunted magazine at 10 am today
+I'd like to book Haiman Pot and Vase trilogy at 10am,Sure! Booking for Haiman Pot and Vase Trilogy at 10 am today
+I'd like to book The Doorbells at 12pm,Sure! Booking for The Doorbells at 12 pm today
+I'd like to book The Doorbells at 3pm,Sure! Booking for The Doorbells at 3 pm today
+I'd like to book The Doorbells at 6pm,Sure! Booking for The Doorbells at 6 pm today
+I'd like to book The Doorbells at 8pm,Sure! Booking for The Doorbells at 8 pm today
+I'd like to book The Doorbells at 10pm,Sure! Booking for The Doorbells at 10 pm today
+I'd like to book Four Days in Dominos at 12pm,Sure! Booking for Four Days in Domino's at 12 pm today
+I'd like to book Four Days in Dominos at 3pm,Sure! Booking for Four Days in Domino's at 3 pm today
+I'd like to book Four Days in Dominos at 6pm,Sure! Booking for Four Days in Domino's at 6 pm today
+I'd like to book Four Days in Dominos at 8pm,Sure! Booking for Four Days in Domino's at 8 pm today
+I'd like to book Four Days in Dominos at 10pm,Sure! Booking for Four Days in Domino's at 10 pm today
+I'd like to book a haunted magazine at 12pm,Sure! Booking for a haunted magazine at 12 pm today
+I'd like to book a haunted magazine at 3pm,Sure! Booking for a haunted magazine at 3 pm today
+I'd like to book a haunted magazine at 6pm,Sure! Booking for a haunted magazine at 6 pm today
+I'd like to book a haunted magazine at 8pm,Sure! Booking for a haunted magazine at 8 pm today
+I'd like to book a haunted magazine at 10pm,Sure! Booking for a haunted magazine at 10 pm today
+I'd like to book Haiman Pot and Vase trilogy at 12pm,Sure! Booking for Haiman Pot and Vase Trilogy at 12 pm today
+I'd like to book Haiman Pot and Vase trilogy at 3pm,Sure! Booking for Haiman Pot and Vase Trilogy at 3 pm today
+I'd like to book Haiman Pot and Vase trilogy at 6pm,Sure! Booking for Haiman Pot and Vase Trilogy at 6 pm today
+I'd like to book Haiman Pot and Vase trilogy at 8pm,Sure! Booking for Haiman Pot and Vase Trilogy at 8 pm today
+I'd like to book Haiman Pot and Vase trilogy at 10pm,Sure! Booking for Haiman Pot and Vase Trilogy at 10 pm today
+that is all,Thank you very much for using HaiHai MovieBot! Enjoy your movie! 
+thank you ,Thank you very much for using HaiHai MovieBot! Enjoy your movie! 
+thanks,Thank you very much for using HaiHai MovieBot! Enjoy your movie! 
+thankies,Thank you very much for using HaiHai MovieBot! Enjoy your movie! 
+search for movie,"The movies currently available are ""The Doorbells"" ""Four Days in Domino's"" ""Lovers of the sunset"" ""a haunted magazine"" and ""Haiman Pot and Vase Trilogy"""
+search for showtime,The showtimes for all the movies are at 10am / 12pm / 3pm/ 6pm / 8pm and 10pm today
+search for time,The showtimes for all the movies are at 10am / 12pm / 3pm/ 6pm / 8pm and 10pm today
+what movie are available,"The movies currently available are ""The Doorbells"" ""Four Days in Domino's"" ""Lovers of the sunset"" ""a haunted magazine"" and ""Haiman Pot and Vase Trilogy"""
+what movie do you have,"The movies currently available are ""The Doorbells"" ""Four Days in Domino's"" ""Lovers of the sunset"" ""a haunted magazine"" and ""Haiman Pot and Vase Trilogy"""
+show me the movie,"The movies currently available are ""The Doorbells"" ""Four Days in Domino's"" ""Lovers of the sunset"" ""a haunted magazine"" and ""Haiman Pot and Vase Trilogy"""
+list all the movie,"The movies currently available are ""The Doorbells"" ""Four Days in Domino's"" ""Lovers of the sunset"" ""a haunted magazine"" and ""Haiman Pot and Vase Trilogy"""
+I'd like to book Lovers of the sunset at 12pm,Sure! Booking for Lovers of the sunset at 12 pm today
+I'd like to book Lovers of the sunset at 3pm,Sure! Booking for Lovers of the sunset at 3 pm today
+I'd like to book Lovers of the sunset at 6pm,Sure! Booking for Lovers of the sunset at 6 pm today
+I'd like to book Lovers of the sunset at 8pm,Sure! Booking for Lovers of the sunset at 8 pm today
+I'd like to book Lovers of the sunset at 10pm,Sure! Booking for Lovers of the sunset at 10 pm today
+change it to 10am,Sure! Booking for 10 am today
+change it to 12pm,Sure! Booking for 12 pm today
+change it to 3pm,Sure! Booking for 3 pm today
+change it to 6pm,Sure! Booking for 6 pm today
+change it to 8pm,Sure! Booking for 8 pm today
+change it to 10pm,Sure! Booking for 10 pm today
+what are the movies?,"The movies currently available are ""The Doorbells"" ""Four Days in Domino's"" ""Lovers of the sunset"" ""a haunted magazine"" and ""Haiman Pot and Vase Trilogy"""
+what are the movie?,"The movies currently available are ""The Doorbells"" ""Four Days in Domino's"" ""Lovers of the sunset"" ""a haunted magazine"" and ""Haiman Pot and Vase Trilogy"""
+what are the time?,The showtimes for all the movies are at 10am / 12pm / 3pm/ 6pm / 8pm and 10pm today
+what are the times?,The showtimes for all the movies are at 10am / 12pm / 3pm/ 6pm / 8pm and 10pm today
+showtimes?,The showtimes for all the movies are at 10am / 12pm / 3pm/ 6pm / 8pm and 10pm today
+what time?,The showtimes for all the movies are at 10am / 12pm / 3pm/ 6pm / 8pm and 10pm today
+what movie is there?,"The movies currently available are ""The Doorbells"" ""Four Days in Domino's"" ""Lovers of the sunset"" ""a haunted magazine"" and ""Haiman Pot and Vase Trilogy"""
+what time is there,The showtimes for all the movies are at 10am / 12pm / 3pm/ 6pm / 8pm and 10pm today
+showtime?,The showtimes for all the movies are at 10am / 12pm / 3pm/ 6pm / 8pm and 10pm today
+movie?,"The movies currently available are ""The Doorbells"" ""Four Days in Domino's"" ""Lovers of the sunset"" ""a haunted magazine"" and ""Haiman Pot and Vase Trilogy"""
+movies?,"The movies currently available are ""The Doorbells"" ""Four Days in Domino's"" ""Lovers of the sunset"" ""a haunted magazine"" and ""Haiman Pot and Vase Trilogy"""
+hi I'd like to book a movie,"Sure! The movies currently available are ""The Doorbells""  ""Four Days in Domino's"" ""Lovers of the sunset"" ""a haunted magazine"" and ""Haiman Pot and Vase Trilogy"""
+hi there I'd like to book a movie,"Sure! The movies currently available are ""The Doorbells""  ""Four Days in Domino's"" ""Lovers of the sunset"" ""a haunted magazine"" and ""Haiman Pot and Vase Trilogy"""
+hello I want to book a movie,"Sure! The movies currently available are ""The Doorbells""  ""Four Days in Domino's"" ""Lovers of the sunset"" ""a haunted magazine"" and ""Haiman Pot and Vase Trilogy"""
+helllo there I want to book movie please,"Sure! The movies currently available are ""The Doorbells""  ""Four Days in Domino's"" ""Lovers of the sunset"" ""a haunted magazine"" and ""Haiman Pot and Vase Trilogy"""
+I'd like to book The Doorbells at 10am please,Sure! Booking for The Doorbells at 10 am today
+I'd like to book Four Days in Dominos at 10am please,Sure! Booking for Four Days in Domino's at 10 am today
+I'd like to book Lovers of the sunset at 10am please,Sure! Booking for Lovers of the sunset at 10 am today
+I'd like to book a haunted magazine at 10am please,Sure! Booking for a haunted magazine at 10 am today
+I'd like to book Haiman Pot and Vase trilogy at 10am please,Sure! Booking for Haiman Pot and Vase Trilogy at 10 am today
+I'd like to book The Doorbells at 12pm please,Sure! Booking for The Doorbells at 12 pm today
+I'd like to book The Doorbells at 3pm please,Sure! Booking for The Doorbells at 3 pm today
+I'd like to book The Doorbells at 6pm please,Sure! Booking for The Doorbells at 6 pm today
+I'd like to book The Doorbells at 8pm please,Sure! Booking for The Doorbells at 8 pm today
+I'd like to book The Doorbells at 10pm please,Sure! Booking for The Doorbells at 10 pm today
+I'd like to book Four Days in Dominos at 12pm please,Sure! Booking for Four Days in Domino's at 12 pm today
+I'd like to book Four Days in Dominos at 3pm please,Sure! Booking for Four Days in Domino's at 3 pm today
+I'd like to book Four Days in Dominos at 6pm please,Sure! Booking for Four Days in Domino's at 6 pm today
+I'd like to book Four Days in Dominos at 8pm please,Sure! Booking for Four Days in Domino's at 8 pm today
+I'd like to book Four Days in Dominos at 10pm please,Sure! Booking for Four Days in Domino's at 10 pm today
+I'd like to book a haunted magazine at 12pm please,Sure! Booking for a haunted magazine at 12 pm today
+I'd like to book a haunted magazine at 3pm please,Sure! Booking for a haunted magazine at 3 pm today
+I'd like to book a haunted magazine at 6pm please,Sure! Booking for a haunted magazine at 6 pm today
+I'd like to book a haunted magazine at 8pm please,Sure! Booking for a haunted magazine at 8 pm today
+I'd like to book a haunted magazine at 10pm please,Sure! Booking for a haunted magazine at 10 pm today
+I'd like to book Haiman Pot and Vase trilogy at 12pm please,Sure! Booking for Haiman Pot and Vase Trilogy at 12 pm today
+I'd like to book Haiman Pot and Vase trilogy at 3pm please,Sure! Booking for Haiman Pot and Vase Trilogy at 3 pm today
+I'd like to book Haiman Pot and Vase trilogy at 6pm please,Sure! Booking for Haiman Pot and Vase Trilogy at 6 pm today
+I'd like to book Haiman Pot and Vase trilogy at 8pm please,Sure! Booking for Haiman Pot and Vase Trilogy at 8 pm today
+I'd like to book Haiman Pot and Vase trilogy at 10pm please,Sure! Booking for Haiman Pot and Vase Trilogy at 10 pm today
+10am,Sure! Booking for 10 am today
+12pm,Sure! Booking for 12 pm today
+3pm,Sure! Booking for 3 pm today
+6pm,Sure! Booking for 6 pm today
+8pm ,Sure! Booking for 8 pm today
+10pm,Sure! Booking for 10 pm today

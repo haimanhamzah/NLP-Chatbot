@@ -2,16 +2,13 @@
 First Checkpoint of HAI Chatbot reached
 
 Maintanence
-- Fix the lemmatisation to get part of speech for named entity recognition
-- and ensure the lemmatisation is used for differently for different datasets
+- Fix the lemmatisation to get part of speech for named entity recognition (DONE)
+- and ensure the lemmatisation is used for differently for different datasets (DONE)
 
 next 
-- expand corpus 
+- expand corpus (2/3 done)
 - context tracking
-- sentiment analysis
+- sentiment analysis (done)
 - transaction
 - guard rail
 - discoverability 
-
-- sqlite genre
-movieswatch -> [("","Horror"),("","Anime"),("","Action")]
