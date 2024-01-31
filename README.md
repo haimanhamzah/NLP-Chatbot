@@ -1,4 +1,4 @@
-# NLP-Chatbot | Human - AI Coursework
+# Natural Language Processing Chatbot | Human - AI Coursework
 Haiman Karim Hamzah, UoN
 
 ## What does this chatbot do? 
